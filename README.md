@@ -1,16 +1,18 @@
 Hi 👋 My name is Artemii
 ========================
+<div style="position: relative;"> 
+  <img src = "https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" style="position: absolute; left: 1000px; top: 1000px; width: 400px;
+  height: 200px;">
+</div>
 
 So far, I'm learning python and markup languages.
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
-img {
-  position: fixed;  // заставляет элемент оставаться неподвижным относительно области просмотра [2](https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F9209213%2Ffloat-a-gif-image-over-a-html-page)
-  top: 50%;  // устанавливает верхнюю часть изображения на 50% от высоты страницы [2](https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F9209213%2Ffloat-a-gif-image-over-a-html-page)
-  left: 50%;  // устанавливает левую часть изображения на 50% по всей странице [2](https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F9209213%2Ffloat-a-gif-image-over-a-html-page)
-  margin-left: -100px;  // перемещает изображение на половину его собственной ширины в левую часть страницы [2](https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F9209213%2Ffloat-a-gif-image-over-a-html-page)
-  margin-top: -93px;  // перемещает изображение на половину его высоты «вверх» по странице [2](https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F9209213%2Ffloat-a-gif-image-over-a-html-page)
-  box-shadow: 0.5em 0.5em 0.7em #333;  // для создания иллюзии «плавающей» границы
-  border-radius: 1em;
-}
+<div style="position: relative;"> <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" style="position: absolute; left: 60px; top: 1000px; width: 50px;
+  height: 50px;"> 
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" style="position: absolute; left: 120px; top: 1000px; width: 50px;
+  height: 50px;"> 
+</div>
+
+
+
 * 🌍  I'm based in Russia
 * 🧠  I'm learning Ural Federal University
